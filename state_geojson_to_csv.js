@@ -8,18 +8,17 @@
 //
 // Use GeoJSON for this file, but also generate TopoJSON for D3 maps:
 // topojson --id-property SLA_MAIN08 -p name=SLA_NAME08 -p name -o wa.json wa.geojson
-//
-// State codes:
-// 1 - NSW
-// 2 - Vic
-// 3 - Qld
-// 4 - SA
-// 5 - WA
-// 6 - Tas
-// 7 - NT
-// 8 - ACT
-//
 
+var state_codes = {
+  1: "NSW",
+  2: "Vic",
+  3: "Qld",
+  4: "SA",
+  5: "WA",
+  6: "Tas",
+  7: "NT",
+  8: "ACT"
+}
 
 var fs = require('fs');
 
@@ -29,7 +28,7 @@ if (!process.argv[2]) {
 }
 
 
-console.log('"Region Name","ASGC 2008 Code"');
+console.log('"State","Region Name","ASGC 2008 Code"');
 
 fs.readFile(process.argv[2], function (err, data) {
   if (err) throw err;
@@ -38,7 +37,10 @@ fs.readFile(process.argv[2], function (err, data) {
 
   structure.features.forEach(function(item) {
 
-    console.log('"' + item.properties.SLA_NAME08 + '",' + item.properties.SLA_MAIN08);
+    console.log(
+      '"' + state_codes[item.properties.STATE_CODE] + '",' +
+      '"' + item.properties.SLA_NAME08 + '",' +
+      item.properties.SLA_MAIN08);
 
   });
 });
