@@ -1,16 +1,22 @@
 
 var fs = require('fs');
+var path = require('path');
 var http = require('http');
 var csv = require('csv');
 var parseString = require('xml2js').parseString;
 
 
-if (!process.argv[2]) {
+if (!process.argv[2] || !fs.existsSync(process.argv[2])) {
   console.log('No input file provided! CSV with ASGC codes is required as first argument.');
   process.exit(1);
 }
 
+if (!process.argv[3] || !fs.existsSync(process.argv[3])) {
+  console.log('No output directory provided! Second argument should be an (ideally empty) directory.');
+  process.exit(1);
+}
 
+var all_location_codes = {};
 var location_codes_to_query = {};
 var final_output = {};
 
@@ -21,7 +27,8 @@ fs.readFile(process.argv[2], function(err, input_file_data) {
     .from(input_file_data.toString('utf-8'))
     .on('record', function(row, index) {
       if (index !== 0) {
-        location_codes_to_query[row[2]] = row;
+        location_codes_to_query[row[2]] = true;
+        all_location_codes[row[2]] = row;
       }
     })
     .on('end', function(count) {
@@ -34,8 +41,9 @@ fs.readFile(process.argv[2], function(err, input_file_data) {
 
 var requestNextData = function() {
   if (Object.keys(location_codes_to_query).length == 0) {
-    console.log("Done!");
-    console.log(final_output);
+    console.log("Done! Writing output to", process.argv[3]);
+
+    writeOutput(final_output);
     return false;
   }
 
@@ -43,6 +51,41 @@ var requestNextData = function() {
 
   requestData(next);
   delete location_codes_to_query[next];
+}
+
+
+var writeOutput = function(output) {
+  for (var data_name in output) {
+    file_data_name = data_name.replace('/', '_');
+
+    var output_file = path.join(process.argv[3], file_data_name) + '.csv';
+
+    // if (!fs.existsSync(output_dir)) {
+    //   // yes, I'm lazily cheating and using synchronous functions
+    //   fs.mkdirSync(output_dir);
+    // }
+
+    var time_keys;
+    var rows = '';
+
+    for (var location_code in output[data_name]) {
+      // this cheats and assumes time_keys will be the same for each data item type
+      time_keys = Object.keys(output[data_name][location_code]);
+
+      var this_row = all_location_codes[location_code].join(',');
+
+      time_keys.forEach(function(time) {
+        this_row += ',' + output[data_name][location_code][time];
+      });
+
+      rows += this_row + "\n";
+    }
+
+    var header = 'State,Region Name,ASGC 2008 Code,';
+    header += time_keys.join(',');
+
+    fs.writeFileSync(output_file, header + "\n" + rows);
+  }
 }
 
 
@@ -115,7 +158,7 @@ var requestData = function(location_code) {
       });
   });
 
-  console.log("Requesting", location_code, location_codes_to_query[location_code][1]);
+  console.log("Requesting", location_code, all_location_codes[location_code][1]);
   post_request.write(post_body);
   post_request.end();
 }
