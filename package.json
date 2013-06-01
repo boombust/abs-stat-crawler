@@ -1,0 +1,15 @@
+{
+  "name": "abs-stat-crawler",
+  "version": "0.0.1",
+  "description": "Simple node implementation of the SOAP SDMX API for ABS.Stat, the Australian national statistics service",
+  "main": "fetch.js",
+  "dependencies" : {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boombust/abs-stat-crawler.git"
+  },
+  "author": "Team BoomBust",
+  "license": "MPL v2",
+  "private": true
+}
