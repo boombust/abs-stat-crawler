@@ -138,6 +138,11 @@ var requestData = function(location_code) {
             var series_name = '';
             var series = {};
 
+            if (!unformatted_series.Obs || !unformatted_series.SeriesKey) {
+              console.log("ERROR:", unformatted_series);
+              console.log(sdmx_text);
+            }
+
             unformatted_series.SeriesKey[0].Value.forEach(function(meta_value) {
               if (meta_value['$'].concept == 'DATAITEM') {
                 series_name = data_items[meta_value['$'].value]
