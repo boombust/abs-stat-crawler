@@ -4,6 +4,8 @@
   "description": "Simple node implementation of the SOAP SDMX API for ABS.Stat, the Australian national statistics service",
   "main": "fetch.js",
   "dependencies" : {
+    "csv": "0.3.x",
+    "xml2js": "0.2.x"
   },
   "repository": {
     "type": "git",
