@@ -56,7 +56,7 @@ var requestNextData = function() {
 
 var writeOutput = function(output) {
   for (var data_name in output) {
-    file_data_name = data_name.replace('/', '_');
+    file_data_name = data_name.replace(/\//g, '_');
 
     var output_file = path.join(process.argv[3], file_data_name) + '.csv';
 
