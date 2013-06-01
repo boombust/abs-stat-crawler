@@ -28,6 +28,9 @@ if (!process.argv[2]) {
   process.exit(1);
 }
 
+
+console.log('"Region Name","ASGC 2008 Code"');
+
 fs.readFile(process.argv[2], function (err, data) {
   if (err) throw err;
 
@@ -35,7 +38,7 @@ fs.readFile(process.argv[2], function (err, data) {
 
   structure.features.forEach(function(item) {
 
-    console.log(item.properties.SLA_NAME08 + ": " + item.properties.SLA_MAIN08);
+    console.log('"' + item.properties.SLA_NAME08 + '",' + item.properties.SLA_MAIN08);
 
   });
 });
