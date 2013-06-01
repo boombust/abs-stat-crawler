@@ -1,0 +1,1387 @@
+"State","Region Name","ASGC 2008 Code"
+"ACT","Acton",805050089
+"ACT","Ainslie",805050189
+"ACT","Braddon",805050639
+"ACT","Campbell",805050909
+"ACT","City",805051449
+"ACT","Dickson",805051889
+"ACT","Downer",805051989
+"ACT","Duntroon",805052169
+"ACT","Hackett",805053609
+"ACT","Kowen",805055049
+"ACT","Lyneham",805055229
+"ACT","Majura",805055769
+"ACT","O'Connor",805056389
+"ACT","Reid",805057209
+"ACT","Russell",805057479
+"ACT","Turner",805058289
+"ACT","Watson",805058559
+"ACT","Aranda",805100279
+"ACT","Belconnen Town Centre",805100459
+"ACT","Belconnen - SSD Bal",805100549
+"ACT","Bruce",805100729
+"ACT","Charnwood",805101179
+"ACT","Cook",805101629
+"ACT","Dunlop",805102139
+"ACT","Evatt",805102259
+"ACT","Florey",805102619
+"ACT","Flynn",805102709
+"ACT","Fraser",805102889
+"ACT","Giralang",805103249
+"ACT","Hawker",805103879
+"ACT","Higgins",805103969
+"ACT","Holt",805104149
+"ACT","Kaleen",805104779
+"ACT","Latham",805105139
+"ACT","McKellar",805105409
+"ACT","Macgregor",805105589
+"ACT","Macquarie",805105679
+"ACT","Melba",805105949
+"ACT","Page",805106669
+"ACT","Scullin",805107569
+"ACT","Spence",805107659
+"ACT","Weetangera",805108649
+"ACT","Chifley",805151269
+"ACT","Curtin",805151719
+"ACT","Farrer",805152439
+"ACT","Garran",805153069
+"ACT","Hughes",805154239
+"ACT","Isaacs",805154419
+"ACT","Lyons",805155319
+"ACT","Mawson",805155859
+"ACT","O'Malley",805156489
+"ACT","Pearce",805156849
+"ACT","Phillip",805156939
+"ACT","Torrens",805158109
+"ACT","Chapman",805201089
+"ACT","Duffy",805202079
+"ACT","Fisher",805202529
+"ACT","Holder",805204059
+"ACT","Rivett",805207389
+"ACT","Stirling",805207749
+"ACT","Stromlo",805207839
+"ACT","Waramanga",805208469
+"ACT","Weston",805208739
+"ACT","Weston Creek-Stromlo - SSD Bal",805208829
+"ACT","Banks",805250339
+"ACT","Bonython",805250609
+"ACT","Calwell",805250819
+"ACT","Chisholm",805251359
+"ACT","Conder",805251549
+"ACT","Fadden",805252349
+"ACT","Gilmore",805253159
+"ACT","Gordon",805253289
+"ACT","Gowrie",805253339
+"ACT","Greenway",805253379
+"ACT","Isabella Plains",805254509
+"ACT","Kambah",805254869
+"ACT","Macarthur",805255489
+"ACT","Monash",805256129
+"ACT","Oxley",805256579
+"ACT","Richardson",805257289
+"ACT","Theodore",805258019
+"ACT","Tuggeranong - SSD Bal",805258189
+"ACT","Wanniassa",805258379
+"ACT","Barton",805350369
+"ACT","Deakin",805351809
+"ACT","Forrest",805352789
+"ACT","Fyshwick",805352979
+"ACT","Griffith",805353429
+"ACT","Harman",805353789
+"ACT","Hume",805354329
+"ACT","Jerrabomberra",805354589
+"ACT","Kingston",805354959
+"ACT","Narrabundah",805356219
+"ACT","Oaks Estate",805356309
+"ACT","Parkes",805356759
+"ACT","Pialligo",805357029
+"ACT","Red Hill",805357119
+"ACT","Symonston",805357929
+"ACT","Yarralumla",805358919
+"ACT","Amaroo",805400239
+"ACT","Bonner",805400589
+"ACT","Casey",805400939
+"ACT","Crace",805401649
+"ACT","Forde",805402779
+"ACT","Franklin",805402919
+"ACT","Gungahlin",805403519
+"ACT","Gungahlin-Hall - SSD Bal",805403529
+"ACT","Hall",805403689
+"ACT","Harrison",805403819
+"ACT","Mitchell",805406039
+"ACT","Ngunnawal",805406249
+"ACT","Nicholls",805406279
+"ACT","Palmerston",805406719
+"ACT","Remainder of ACT",810059009
+"NSW","Botany Bay (C)",105051100
+"NSW","Leichhardt (A)",105054800
+"NSW","Marrickville (A)",105055200
+"NSW","Sydney (C) - Inner",105057201
+"NSW","Sydney (C) - East",105057204
+"NSW","Sydney (C) - South",105057205
+"NSW","Sydney (C) - West",105057206
+"NSW","Randwick (C)",105106550
+"NSW","Waverley (A)",105108050
+"NSW","Woollahra (A)",105108500
+"NSW","Hurstville (C)",105154150
+"NSW","Kogarah (A)",105154450
+"NSW","Rockdale (C)",105156650
+"NSW","Sutherland Shire (A) - East",105157151
+"NSW","Sutherland Shire (A) - West",105157152
+"NSW","Bankstown (C) - North-East",105200351
+"NSW","Bankstown (C) - North-West",105200353
+"NSW","Bankstown (C) - South",105200355
+"NSW","Canterbury (C)",105201550
+"NSW","Fairfield (C) - East",105252851
+"NSW","Fairfield (C) - West",105252854
+"NSW","Liverpool (C) - East",105254901
+"NSW","Liverpool (C) - West",105254904
+"NSW","Camden (A)",105301450
+"NSW","Campbelltown (C) - North",105301501
+"NSW","Campbelltown (C) - South",105301504
+"NSW","Wollondilly (A)",105308400
+"NSW","Ashfield (A)",105350150
+"NSW","Burwood (A)",105351300
+"NSW","Canada Bay (A) - Concord",105351521
+"NSW","Canada Bay (A) - Drummoyne",105351524
+"NSW","Strathfield (A)",105357100
+"NSW","Auburn (A)",105400200
+"NSW","Holroyd (C)",105403950
+"NSW","Parramatta (C) - Inner",105406251
+"NSW","Parramatta (C) - North-East",105406252
+"NSW","Parramatta (C) - North-West",105406253
+"NSW","Parramatta (C) - South",105406254
+"NSW","Blue Mountains (C)",105450900
+"NSW","Hawkesbury (C)",105453800
+"NSW","Penrith (C) - East",105456351
+"NSW","Penrith (C) - West",105456354
+"NSW","Blacktown (C) - North",105530751
+"NSW","Blacktown (C) - South-East",105530752
+"NSW","Blacktown (C) - South-West",105530753
+"NSW","Hunters Hill (A)",105554100
+"NSW","Lane Cove (A)",105554700
+"NSW","Mosman (A)",105555350
+"NSW","North Sydney (A)",105555950
+"NSW","Ryde (C)",105556700
+"NSW","Willoughby (C)",105558250
+"NSW","Baulkham Hills (A) - Central",105600501
+"NSW","Baulkham Hills (A) - North",105600503
+"NSW","Baulkham Hills (A) - South",105600505
+"NSW","Hornsby (A) - North",105604001
+"NSW","Hornsby (A) - South",105604004
+"NSW","Ku-ring-gai (A)",105604500
+"NSW","Manly (A)",105655150
+"NSW","Pittwater (A)",105656370
+"NSW","Warringah (A)",105658000
+"NSW","Gosford (C) - East",105703101
+"NSW","Gosford (C) - West",105703104
+"NSW","Wyong (A) - North-East",105708551
+"NSW","Wyong (A) - South and West",105708554
+"NSW","Cessnock (C)",110051720
+"NSW","Lake Macquarie (C) - East",110054651
+"NSW","Lake Macquarie (C) - North",110054653
+"NSW","Lake Macquarie (C) - West",110054655
+"NSW","Maitland (C)",110055050
+"NSW","Newcastle (C) - Inner City",110055903
+"NSW","Newcastle (C) - Outer West",110055904
+"NSW","Newcastle (C) - Throsby",110055905
+"NSW","Port Stephens (A)",110056400
+"NSW","Dungog (A)",110102700
+"NSW","Gloucester (A)",110103050
+"NSW","Great Lakes (A)",110103400
+"NSW","Muswellbrook (A)",110105650
+"NSW","Singleton (A)",110107000
+"NSW","Upper Hunter Shire (A)",110107620
+"NSW","Kiama (A)",115054400
+"NSW","Shellharbour (C)",115056900
+"NSW","Wollongong (C) - Inner",115058451
+"NSW","Wollongong (C) Bal",115058454
+"NSW","Shoalhaven (C) - Pt A",115076951
+"NSW","Shoalhaven (C) - Pt B",115106952
+"NSW","Wingecarribee (A)",115108350
+"NSW","Tweed (A) - Tweed-Heads",120057554
+"NSW","Tweed (A) - Tweed Coast",120057556
+"NSW","Lismore (C) - Pt A",120074851
+"NSW","Ballina (A)",120100250
+"NSW","Byron (A)",120101350
+"NSW","Kyogle (A)",120104550
+"NSW","Lismore (C) - Pt B",120104854
+"NSW","Richmond Valley (A) - Casino",120106611
+"NSW","Richmond Valley (A) Bal",120106612
+"NSW","Tweed (A) - Pt B",120107558
+"NSW","Coffs Harbour (C) - Pt A",125011801
+"NSW","Port Macquarie-Hastings (A) - Pt A",125036381
+"NSW","Bellingen (A)",125050600
+"NSW","Clarence Valley (A) - Coast",125051736
+"NSW","Clarence Valley (A) - Grafton",125051737
+"NSW","Clarence Valley (A) Bal",125051738
+"NSW","Coffs Harbour (C) - Pt B",125051804
+"NSW","Nambucca (A)",125055700
+"NSW","Greater Taree (C)",125103350
+"NSW","Kempsey (A)",125104350
+"NSW","Port Macquarie-Hastings (A) - Pt B",125106385
+"NSW","Lord Howe Island",125108859
+"NSW","Tamworth Regional (A) - Pt A",130057311
+"NSW","Gunnedah (A)",130103550
+"NSW","Gwydir (A)",130103660
+"NSW","Inverell (A) - Pt A",130104201
+"NSW","Liverpool Plains (A)",130104920
+"NSW","Tamworth Regional (A) - Pt B",130107314
+"NSW","Armidale Dumaresq (A) - City",130150111
+"NSW","Armidale Dumaresq (A) Bal",130150112
+"NSW","Glen Innes Severn (A)",130153010
+"NSW","Guyra (A)",130153650
+"NSW","Inverell (A) - Pt B",130154202
+"NSW","Tenterfield (A)",130157400
+"NSW","Uralla (A)",130157650
+"NSW","Walcha (A)",130157850
+"NSW","Moree Plains (A)",130205300
+"NSW","Narrabri (A)",130205750
+"NSW","Dubbo (C) - Pt A",135012601
+"NSW","Dubbo (C) - Pt B",135052604
+"NSW","Gilgandra (A)",135052950
+"NSW","Mid-Western Regional (A) - Pt A",135055271
+"NSW","Narromine (A)",135055850
+"NSW","Warrumbungle Shire (A)",135058020
+"NSW","Wellington (A)",135058150
+"NSW","Bogan (A)",135100950
+"NSW","Coonamble (A)",135102150
+"NSW","Walgett (A)",135107900
+"NSW","Warren (A)",135107950
+"NSW","Bourke (A)",135151150
+"NSW","Brewarrina (A)",135151200
+"NSW","Cobar (A)",135151750
+"NSW","Bathurst Regional (A) - Pt A",140030471
+"NSW","Bathurst Regional (A) - Pt B",140070473
+"NSW","Blayney (A)",140070850
+"NSW","Cabonne (A)",140071400
+"NSW","Lithgow (C)",140074870
+"NSW","Mid-Western Regional (A) - Pt B",140075274
+"NSW","Oberon (A)",140076100
+"NSW","Bland (A)",140150800
+"NSW","Cowra (A)",140152350
+"NSW","Forbes (A)",140152900
+"NSW","Lachlan (A)",140154600
+"NSW","Parkes (A)",140156200
+"NSW","Weddin (A)",140158100
+"NSW","Orange (C)",140206150
+"NSW","Palerang (A) - Pt A",145056181
+"NSW","Queanbeyan (C)",145056470
+"NSW","Boorowa (A)",145101050
+"NSW","Goulburn Mulwaree (A) - Goulburn",145103311
+"NSW","Goulburn Mulwaree (A) Bal",145103314
+"NSW","Harden (A)",145103700
+"NSW","Palerang (A) - Pt B",145106184
+"NSW","Upper Lachlan Shire (A)",145107640
+"NSW","Yass Valley (A)",145108710
+"NSW","Young (A)",145108750
+"NSW","Bega Valley (A)",145150550
+"NSW","Eurobodalla (A)",145152750
+"NSW","Bombala (A)",145201000
+"NSW","Cooma-Monaro (A)",145202050
+"NSW","Snowy River (A)",145207050
+"NSW","Wagga Wagga (C) - Pt A",150057751
+"NSW","Coolamon (A)",150102000
+"NSW","Cootamundra (A)",150102200
+"NSW","Gundagai (A)",150103500
+"NSW","Junee (A)",150104300
+"NSW","Lockhart (A)",150104950
+"NSW","Narrandera (A)",150105800
+"NSW","Temora (A)",150107350
+"NSW","Tumut Shire (A)",150107500
+"NSW","Wagga Wagga (C) - Pt B",150107754
+"NSW","Carrathool (A)",150151600
+"NSW","Griffith (C)",150153450
+"NSW","Hay (A)",150153850
+"NSW","Leeton (A)",150154750
+"NSW","Murrumbidgee (A)",150155550
+"NSW","Albury (C)",155050050
+"NSW","Greater Hume Shire (A) - Pt A",155053371
+"NSW","Corowa Shire (A)",155102300
+"NSW","Greater Hume Shire (A) - Pt B",155103374
+"NSW","Tumbarumba (A)",155107450
+"NSW","Urana (A)",155107700
+"NSW","Berrigan (A)",155150650
+"NSW","Conargo (A)",155151860
+"NSW","Deniliquin (A)",155152500
+"NSW","Jerilderie (A)",155154250
+"NSW","Murray (A)",155155500
+"NSW","Wakool (A)",155157800
+"NSW","Balranald (A)",155200300
+"NSW","Wentworth (A)",155208200
+"NSW","Broken Hill (C)",160101250
+"NSW","Central Darling (A)",160101700
+"NSW","Unincorp. Far West",160108809
+"NT","Alawa",705051004
+"NT","Anula",705051008
+"NT","Bayview-Woolner",705051011
+"NT","Brinkin",705051014
+"NT","City - Inner",705051018
+"NT","Coconut Grove",705051024
+"NT","Fannie Bay",705051028
+"NT","Jingili",705051034
+"NT","Karama",705051038
+"NT","Larrakeyah",705051044
+"NT","Leanyer",705051048
+"NT","Lee Point-Leanyer Swamp",705051052
+"NT","Ludmilla",705051054
+"NT","Malak",705051058
+"NT","Marrara",705051064
+"NT","Millner",705051068
+"NT","Moil",705051074
+"NT","Nakara",705051078
+"NT","Narrows",705051084
+"NT","Nightcliff",705051088
+"NT","Parap",705051094
+"NT","Rapid Creek",705051098
+"NT","Stuart Park",705051104
+"NT","The Gardens",705051108
+"NT","Tiwi",705051114
+"NT","Wagaman",705051118
+"NT","Wanguri",705051124
+"NT","Winnellie",705051128
+"NT","Wulagi",705051134
+"NT","City - Remainder",705051138
+"NT","East Arm",705101169
+"NT","Bakewell",705102802
+"NT","Driver",705102804
+"NT","Durack",705102806
+"NT","Gray",705102808
+"NT","Gunn-Palmerston City",705102811
+"NT","Moulden",705102814
+"NT","Woodroffe",705102818
+"NT","Palmerston (C) Bal",705102824
+"NT","Litchfield (S) - Pt A",705202304
+"NT","Litchfield (S) - Pt B",705202308
+"NT","Belyuen (S)",710050540
+"NT","Coomalie (S)",710050700
+"NT","Finniss-Mary",710051509
+"NT","Wagait (S)",710054560
+"NT","Tiwi Islands (S)",710104050
+"NT","West Arnhem (S) - Jabiru",710154663
+"NT","West Arnhem (S) Bal",710154666
+"NT","Alyangula",710250419
+"NT","East Arnhem (S)",710251300
+"NT","Nhulunbuy",710252409
+"NT","Katherine (T)",710302200
+"NT","Roper Gulf (S)",710303600
+"NT","Victoria-Daly (S) - Wadeye and OS",710304505
+"NT","Victoria-Daly (S) Bal",710304508
+"NT","Barkly (S) - Tennant Creek",710350422
+"NT","Barkly (S) Bal",710350425
+"NT","Alice Springs (T) - Charles",710400201
+"NT","Alice Springs (T) - Heavitree",710400203
+"NT","Alice Springs (T) - Larapinta",710400205
+"NT","Alice Springs (T) - Ross",710400207
+"NT","Alice Springs (T) - Stuart",710400208
+"NT","Central Desert (S)",710400620
+"NT","MacDonnell (S)",710402330
+"NT","Yulara",710406059
+"Qld","Bowen Hills",305011067
+"Qld","City - Inner",305011143
+"Qld","City - Remainder",305011146
+"Qld","Dutton Park",305011187
+"Qld","Fortitude Valley",305011227
+"Qld","Herston",305011274
+"Qld","Highgate Hill",305011277
+"Qld","Kangaroo Point",305011304
+"Qld","Kelvin Grove",305011315
+"Qld","Milton",305011378
+"Qld","New Farm",305011421
+"Qld","Newstead",305011427
+"Qld","Paddington",305011454
+"Qld","Red Hill",305011481
+"Qld","South Brisbane",305011525
+"Qld","Spring Hill",305011528
+"Qld","West End",305011607
+"Qld","Woolloongabba",305011631
+"Qld","Albion",305031004
+"Qld","Alderley",305031007
+"Qld","Ascot",305031026
+"Qld","Ashgrove",305031031
+"Qld","Bardon",305031048
+"Qld","Chelmer",305031132
+"Qld","Clayfield",305031151
+"Qld","Corinda",305031162
+"Qld","Enoggera",305031206
+"Qld","Graceville",305031241
+"Qld","Grange",305031244
+"Qld","Hamilton",305031255
+"Qld","Hendra",305031271
+"Qld","Indooroopilly",305031293
+"Qld","Kedron",305031312
+"Qld","Lutwyche",305031345
+"Qld","Newmarket",305031424
+"Qld","Nundah",305031446
+"Qld","St Lucia",305031506
+"Qld","Sherwood",305031522
+"Qld","Stafford",305031533
+"Qld","Stafford Heights",305031536
+"Qld","Taringa",305031558
+"Qld","Toowong",305031574
+"Qld","Wilston",305031618
+"Qld","Windsor",305031623
+"Qld","Wooloowin",305031634
+"Qld","Anstead",305071018
+"Qld","Aspley",305071034
+"Qld","Bald Hills",305071037
+"Qld","Banyo",305071045
+"Qld","Bellbowrie",305071053
+"Qld","Boondall",305071064
+"Qld","Bracken Ridge",305071072
+"Qld","Bridgeman Downs",305071075
+"Qld","Brighton",305071078
+"Qld","Brookfield (incl. Brisbane Forest Park)",305071084
+"Qld","Carseldine",305071121
+"Qld","Chapel Hill",305071127
+"Qld","Chermside",305071135
+"Qld","Chermside West",305071138
+"Qld","Darra-Sumner",305071167
+"Qld","Deagon",305071173
+"Qld","Doolandella-Forest Lake",305071176
+"Qld","Durack",305071184
+"Qld","Ellen Grove",305071203
+"Qld","Everton Park",305071211
+"Qld","Ferny Grove",305071217
+"Qld","Fig Tree Pocket",305071222
+"Qld","Geebung",305071236
+"Qld","Inala",305071288
+"Qld","Jamboree Heights",305071296
+"Qld","Jindalee",305071301
+"Qld","Karana Downs-Lake Manchester",305071306
+"Qld","Kenmore",305071318
+"Qld","Kenmore Hills",305071323
+"Qld","Keperra",305071326
+"Qld","McDowall",305071353
+"Qld","Middle Park",305071375
+"Qld","Mitchelton",305071383
+"Qld","Moggill",305071386
+"Qld","Mount Ommaney",305071408
+"Qld","Northgate",305071435
+"Qld","Nudgee",305071442
+"Qld","Oxley",305071451
+"Qld","Pinjarra Hills",305071465
+"Qld","Pinkenba-Eagle Farm",305071467
+"Qld","Pullenvale",305071473
+"Qld","Richlands",305071484
+"Qld","Riverhills",305071487
+"Qld","Sandgate",305071514
+"Qld","Seventeen Mile Rocks",305071517
+"Qld","Taigum-Fitzgibbon",305071556
+"Qld","The Gap",305071567
+"Qld","Upper Kedron",305071585
+"Qld","Virginia",305071593
+"Qld","Wacol",305071596
+"Qld","Wavell Heights",305071604
+"Qld","Westlake",305071612
+"Qld","Zillmere",305071653
+"Qld","Annerley",305091015
+"Qld","Balmoral",305091042
+"Qld","Bulimba",305091086
+"Qld","Camp Hill",305091097
+"Qld","Cannon Hill",305091102
+"Qld","Carindale",305091108
+"Qld","Carina",305091113
+"Qld","Carina Heights",305091116
+"Qld","Coorparoo",305091157
+"Qld","East Brisbane",305091195
+"Qld","Fairfield",305091214
+"Qld","Greenslopes",305091247
+"Qld","Hawthorne",305091258
+"Qld","Holland Park",305091282
+"Qld","Holland Park West",305091285
+"Qld","Moorooka",305091391
+"Qld","Morningside",305091397
+"Qld","Norman Park",305091432
+"Qld","Tarragindi",305091563
+"Qld","Yeerongpilly",305091645
+"Qld","Yeronga",305091648
+"Qld","Acacia Ridge",305111001
+"Qld","Algester",305111012
+"Qld","Archerfield",305111023
+"Qld","Belmont-Mackenzie",305111057
+"Qld","Burbank",305111091
+"Qld","Calamvale",305111094
+"Qld","Chandler-Capalaba West",305111123
+"Qld","Coopers Plains",305111154
+"Qld","Eight Mile Plains",305111198
+"Qld","Gumdale-Ransome",305111251
+"Qld","Hemmant-Lytton",305111265
+"Qld","Kuraby",305111331
+"Qld","Lota",305111337
+"Qld","MacGregor",305111356
+"Qld","Manly",305111364
+"Qld","Manly West",305111367
+"Qld","Mansfield",305111372
+"Qld","Moreton Island",305111394
+"Qld","Mount Gravatt",305111402
+"Qld","Mount Gravatt East",305111405
+"Qld","Murarrie",305111413
+"Qld","Nathan",305111416
+"Qld","Pallara-Heathwood-Larapinta",305111456
+"Qld","Parkinson-Drewvale",305111463
+"Qld","Robertson",305111492
+"Qld","Rochedale",305111495
+"Qld","Rocklea",305111498
+"Qld","Runcorn",305111503
+"Qld","Salisbury",305111511
+"Qld","Stretton-Karawatha",305111541
+"Qld","Sunnybank",305111547
+"Qld","Sunnybank Hills",305111552
+"Qld","Tingalpa",305111571
+"Qld","Upper Mount Gravatt",305111588
+"Qld","Wakerley",305111601
+"Qld","Willawong",305111615
+"Qld","Wishart",305111626
+"Qld","Wynnum",305111637
+"Qld","Wynnum West",305111642
+"Qld","Bribie Island",305205019
+"Qld","Burpengary-Narangba",305205021
+"Qld","Caboolture Central",305205023
+"Qld","Caboolture East",305205025
+"Qld","Caboolture Hinterland",305205027
+"Qld","Caboolture Midwest",305205028
+"Qld","Deception Bay",305205039
+"Qld","Morayfield",305205056
+"Qld","Ipswich (C) - Central",305253962
+"Qld","Ipswich (C) - East",305253965
+"Qld","Ipswich (C) - North",305253966
+"Qld","Ipswich (C) - South-West",305253971
+"Qld","Ipswich (C) - West",305253976
+"Qld","Beenleigh",305304595
+"Qld","Bethania-Waterford",305304597
+"Qld","Browns Plains",305304601
+"Qld","Carbrook-Cornubia",305304603
+"Qld","Daisy Hill-Priestdale",305304605
+"Qld","Eagleby",305304606
+"Qld","Edens Landing-Holmview",305304607
+"Qld","Greenbank-Boronia Heights",305304608
+"Qld","Jimboomba-Logan Village",305304611
+"Qld","Kingston",305304612
+"Qld","Loganholme",305304615
+"Qld","Loganlea",305304618
+"Qld","Marsden",305304623
+"Qld","Mt Warren Park",305304626
+"Qld","Park Ridge-Logan Reserve",305304627
+"Qld","Rochedale South",305304631
+"Qld","Shailer Park",305304634
+"Qld","Slacks Creek",305304637
+"Qld","Springwood",305304642
+"Qld","Tanah Merah",305304645
+"Qld","Underwood",305304651
+"Qld","Waterford West",305304654
+"Qld","Wolffdene-Bahrs Scrub",305304655
+"Qld","Woodridge",305304656
+"Qld","Albany Creek",305405013
+"Qld","Bray Park",305405016
+"Qld","Central Pine West",305405033
+"Qld","Dakabin-Kallangur-M. Downs",305405037
+"Qld","Griffin-Mango Hill",305405043
+"Qld","Hills District",305405047
+"Qld","Lawnton",305405051
+"Qld","Petrie",305405058
+"Qld","Strathpine-Brendale",305405067
+"Qld","Moreton Bay (R) Bal",305405068
+"Qld","Clontarf",305455035
+"Qld","Margate-Woody Point",305455053
+"Qld","Redcliffe-Scarborough",305455063
+"Qld","Rothwell-Kippa-Ring",305455065
+"Qld","Alexandra Hills",305506251
+"Qld","Birkdale",305506254
+"Qld","Capalaba",305506257
+"Qld","Cleveland",305506262
+"Qld","Ormiston",305506264
+"Qld","Redland Bay",305506265
+"Qld","Sheldon-Mt Cotton",305506267
+"Qld","Thorneside",305506268
+"Qld","Thornlands",305506271
+"Qld","Victoria Point",305506273
+"Qld","Wellington Point",305506276
+"Qld","Redland (C) Bal",305506283
+"Qld","Biggera Waters-Labrador",307103508
+"Qld","Bilinga-Tugun",307103511
+"Qld","Broadbeach-Mermaid Beach",307103514
+"Qld","Broadbeach Waters",307103515
+"Qld","Bundall",307103517
+"Qld","Burleigh Heads",307103521
+"Qld","Burleigh Waters",307103523
+"Qld","Coolangatta",307103527
+"Qld","Currumbin",307103533
+"Qld","Main Beach-South Stradbroke",307103555
+"Qld","Mermaid Wtrs-Clear Is. Wtrs",307103562
+"Qld","Miami",307103563
+"Qld","Palm Beach",307103573
+"Qld","Paradise Point-Runaway Bay",307103576
+"Qld","Southport",307103585
+"Qld","Surfers Paradise",307103587
+"Qld","Ashmore-Benowa",307153502
+"Qld","Carrara-Merrimac",307153525
+"Qld","Coombabah",307153531
+"Qld","Currumbin Valley-Tallebudgera",307153534
+"Qld","Currumbin Waters",307153535
+"Qld","Elanora",307153537
+"Qld","Helensvale",307153543
+"Qld","Hope Island",307153547
+"Qld","Jacobs Well-Alberton",307153552
+"Qld","Kingsholme-Upper Coomera",307153556
+"Qld","Molendinar",307153564
+"Qld","Mudgeeraba-Reedy Creek",307153566
+"Qld","Nerang",307153567
+"Qld","Oxenford-Maudsland",307153568
+"Qld","Pacific Pines-Gaven",307153572
+"Qld","Ormeau-Yatala",307153574
+"Qld","Parkwood-Arundel",307153578
+"Qld","Pimpama-Coomera",307153581
+"Qld","Robina",307153582
+"Qld","Varsity Lakes",307153592
+"Qld","Worongary-Tallai",307153593
+"Qld","Guanaba-Springbrook",307203538
+"Qld","Buderim",309056713
+"Qld","Caloundra North",309056718
+"Qld","Caloundra South",309056721
+"Qld","Coolum-Mudjimba",309056723
+"Qld","Kawana",309056728
+"Qld","Maroochydore",309056738
+"Qld","Mooloolaba",309056744
+"Qld","Nambour",309056748
+"Qld","Noosa-Noosaville",309056755
+"Qld","Paynter-Petrie Creek",309056761
+"Qld","Sunshine-Peregian",309056763
+"Qld","Tewantin",309056772
+"Qld","Caloundra Hinterland",309106716
+"Qld","Glass House Country",309106725
+"Qld","Maroochy Hinterland",309106733
+"Qld","Noosa Hinterland",309106753
+"Qld","Somerset (R) - Esk",312056582
+"Qld","Somerset (R) - Kilcoy",312056584
+"Qld","Lockyer Valley (R) - Gatton",312104582
+"Qld","Lockyer Valley (R) - Laidley",312104584
+"Qld","Scenic Rim (R) - Beaudesert",312106512
+"Qld","Scenic Rim (R) - Boonah",312106514
+"Qld","Scenic Rim (R) - Tamborine-Canungra",312106516
+"Qld","Bundaberg (R) - Bundaberg",315051822
+"Qld","Bundaberg (R) - Burnett Pt A",315051824
+"Qld","Fraser Coast (R) - Hervey Bay Pt A",315073222
+"Qld","Bundaberg (R) - Burnett Pt B",315101825
+"Qld","Bundaberg (R) - Isis",315101827
+"Qld","Bundaberg (R) - Kolan",315101828
+"Qld","Cherbourg (S)",315102330
+"Qld","Fraser Coast (R) - Hervey Bay Pt B",315103223
+"Qld","Fraser Coast (R) - Maryborough",315103225
+"Qld","Fraser Coast (R) - Woocoo-Tiaro",315103227
+"Qld","Gympie (R) - Cooloola",315103622
+"Qld","Gympie (R) - Gympie",315103624
+"Qld","Gympie (R) - Kilkivan",315103626
+"Qld","North Burnett (R) - Biggenden",315105761
+"Qld","North Burnett (R) - Eidsvold",315105762
+"Qld","North Burnett (R) - Gayndah",315105763
+"Qld","North Burnett (R) - Monto",315105764
+"Qld","North Burnett (R) - Mundubbera",315105765
+"Qld","North Burnett (R) - Perry",315105766
+"Qld","South Burnett (R) - Kingaroy",315106632
+"Qld","South Burnett (R) - Murgon",315106634
+"Qld","South Burnett (R) - Nanango",315106636
+"Qld","South Burnett (R) - Wondai",315106638
+"Qld","Cambooya",320016912
+"Qld","Gowrie",320016921
+"Qld","Highfields",320016926
+"Qld","Toowoomba Central",320016937
+"Qld","Toowoomba North-East",320016941
+"Qld","Toowoomba North-West",320016943
+"Qld","Toowoomba South-East",320016945
+"Qld","Toowoomba West",320016946
+"Qld","Westbrook",320016947
+"Qld","Dalby (R) - Chinchilla",320052662
+"Qld","Dalby (R) - Dalby",320052663
+"Qld","Dalby (R) - Murilla-Wandoan",320052665
+"Qld","Dalby (R) - Tara",320052666
+"Qld","Dalby (R) - Wambo",320052668
+"Qld","Goondiwindi (R) - Goondiwindi",320053612
+"Qld","Goondiwindi (R) - Inglewood",320053614
+"Qld","Goondiwindi (R) - Waggamba",320053616
+"Qld","Southern Downs (R) - Allora",320056662
+"Qld","Southern Downs (R) - Killarney",320056665
+"Qld","Southern Downs (R) - Stanthorpe",320056666
+"Qld","Southern Downs (R) - Warwick",320056667
+"Qld","Southern Downs (R) - West",320056668
+"Qld","Clifton",320056914
+"Qld","Crow's Nest",320056916
+"Qld","Greenmount",320056923
+"Qld","Jondaryan",320056928
+"Qld","Millmerran",320056931
+"Qld","Pittsworth",320056933
+"Qld","Rosalie",320056935
+"Qld","Balonne (S)",325050300
+"Qld","Bulloo (S)",325051750
+"Qld","Murweh (S)",325055600
+"Qld","Paroo (S)",325055800
+"Qld","Quilpie (S)",325056150
+"Qld","Roma (R) - Bendemere",325056412
+"Qld","Roma (R) - Booringa",325056414
+"Qld","Roma (R) - Bungil",325056415
+"Qld","Roma (R) - Roma",325056417
+"Qld","Roma (R) - Warroo",325056418
+"Qld","Rockhampton (R) - Fitzroy Pt A",330056362
+"Qld","Rockhampton (R) - Livingstone Pt A",330056365
+"Qld","Rockhampton (R) - Rockhampton",330056368
+"Qld","Gladstone (R) - Calliope Pt A",330103362
+"Qld","Gladstone (R) - Gladstone",330103366
+"Qld","Banana (S)",330150370
+"Qld","Central Highlands (R) - Bauhinia",330152272
+"Qld","Central Highlands (R) - Duaringa",330152274
+"Qld","Central Highlands (R) - Emerald",330152276
+"Qld","Central Highlands (R) - Peak Downs",330152278
+"Qld","Gladstone (R) - Calliope Pt B",330153364
+"Qld","Gladstone (R) - Miriam Vale",330153368
+"Qld","Rockhampton (R) - Fitzroy Pt B",330156363
+"Qld","Rockhampton (R) - Livingstone Pt B",330156366
+"Qld","Rockhampton (R) - Mount Morgan",330156367
+"Qld","Woorabinda (S)",330157550
+"Qld","Barcaldine (R) - Aramac",335050412
+"Qld","Barcaldine (R) - Barcaldine",335050416
+"Qld","Barcaldine (R) - Jericho",335050418
+"Qld","Barcoo (S)",335050450
+"Qld","Blackall Tambo (R) - Blackall",335050762
+"Qld","Blackall Tambo (R) - Tambo",335050765
+"Qld","Boulia (S)",335050900
+"Qld","Diamantina (S)",335052750
+"Qld","Longreach (R) - Ilfracombe",335054712
+"Qld","Longreach (R) - Isisford",335054714
+"Qld","Longreach (R) - Longreach",335054716
+"Qld","Winton (S)",335057400
+"Qld","Mackay (R) - Mackay Pt A",340054772
+"Qld","Isaac (R) - Belyando",340103982
+"Qld","Isaac (R) - Broadsound",340103984
+"Qld","Isaac (R) - Nebo",340103986
+"Qld","Mackay (R) - Mackay Pt B",340104773
+"Qld","Mackay (R) - Mirani",340104775
+"Qld","Mackay (R) - Sarina",340104777
+"Qld","Whitsunday (R) - Bowen",340107342
+"Qld","Whitsunday (R) - Whitsunday",340107345
+"Qld","Aitkenvale",345057001
+"Qld","City",345057003
+"Qld","Cranbrook",345057007
+"Qld","Currajong",345057012
+"Qld","Douglas",345057014
+"Qld","Garbutt",345057015
+"Qld","Gulliver",345057018
+"Qld","Heatley",345057023
+"Qld","Hermit Park",345057026
+"Qld","Hyde Park-Mysterton",345057027
+"Qld","Magnetic Island",345057031
+"Qld","Mt Louisa-Mt St John-Bohle",345057033
+"Qld","Mundingburra",345057034
+"Qld","Murray",345057038
+"Qld","North Ward-Castle Hill",345057041
+"Qld","Oonoonba-Idalia-Cluden",345057044
+"Qld","Pallarenda-Shelley Beach",345057047
+"Qld","Pimlico",345057051
+"Qld","Railway Estate",345057054
+"Qld","Rosslea",345057058
+"Qld","Rowes Bay-Belgian Gardens",345057062
+"Qld","South Townsville",345057065
+"Qld","Stuart-Roseneath",345057068
+"Qld","Vincent",345057071
+"Qld","West End",345057074
+"Qld","Wulguru",345057078
+"Qld","Condon-Rasmussen-Bohle Basin",345107005
+"Qld","Kelso",345107028
+"Qld","Kirwan",345107030
+"Qld","Burdekin (S)",345151900
+"Qld","Charters Towers (R) - Charters Towers",345152312
+"Qld","Charters Towers (R) - Dalrymple",345152314
+"Qld","Hinchinbrook (S)",345153800
+"Qld","Palm Island (S)",345155790
+"Qld","Northern Beaches-Pinnacles",345157043
+"Qld","Woodstock-Cleveland-Ross",345157076
+"Qld","Cairns (R) - Barron",350052062
+"Qld","Cairns (R) - Central Suburbs",350052065
+"Qld","Cairns (R) - City",350052066
+"Qld","Cairns (R) - Mt Whitfield",350052068
+"Qld","Cairns (R) - Northern Suburbs",350052072
+"Qld","Cairns (R) - Trinity",350052074
+"Qld","Cairns (R) - Western Suburbs",350052076
+"Qld","Aurukun (S)",350100250
+"Qld","Cairns (R) - Douglas",350102067
+"Qld","Cairns (R) - Pt B",350102078
+"Qld","Cassowary Coast (R) - Cardwell",350102262
+"Qld","Cassowary Coast (R) - Johnstone",350102264
+"Qld","Cook (S)",350102500
+"Qld","Croydon (S)",350102600
+"Qld","Etheridge (S)",350103100
+"Qld","Hope Vale (S)",350103830
+"Qld","Kowanyama (S)",350104420
+"Qld","Lockhart River (S)",350104570
+"Qld","Mapoon (S)",350104830
+"Qld","Napranum (S)",350105670
+"Qld","Northern Peninsula Area (R) - Bamaga",350105781
+"Qld","Northern Peninsula Area (R) - Injinoo",350105783
+"Qld","Northern Peninsula Area (R) - New Mapoon",350105784
+"Qld","Northern Peninsula Area (R) - Seisia",350105786
+"Qld","Northern Peninsula Area (R) - Umagico",350105788
+"Qld","Pormpuraaw (S)",350106070
+"Qld","Tablelands (R) - Atherton",350106812
+"Qld","Tablelands (R) - Eacham",350106814
+"Qld","Tablelands (R) - Herberton",350106816
+"Qld","Tablelands (R) - Mareeba",350106818
+"Qld","Torres (S)",350106950
+"Qld","Torres Strait Island (R) - Badu",350106963
+"Qld","Torres Strait Island (R) - Boigu",350106965
+"Qld","Torres Strait Island (R) - Dauan",350106968
+"Qld","Torres Strait Island (R) - Erub",350106972
+"Qld","Torres Strait Island (R) - Hammond",350106974
+"Qld","Torres Strait Island (R) - Iama",350106976
+"Qld","Torres Strait Island (R) - Kubin",350106978
+"Qld","Torres Strait Island (R) - Mabuiag",350106982
+"Qld","Torres Strait Island (R) - Mer",350106984
+"Qld","Torres Strait Island (R) - Poruma",350106986
+"Qld","Torres Strait Island (R) - Saibai",350106992
+"Qld","Torres Strait Island (R) - St Pauls",350106993
+"Qld","Torres Strait Island (R) - Ugar",350106995
+"Qld","Torres Strait Island (R) - Warraber",350106996
+"Qld","Torres Strait Island (R) - Yorke",350106998
+"Qld","Weipa (T)",350107300
+"Qld","Wujal Wujal (S)",350107570
+"Qld","Yarrabah (S)",350107600
+"Qld","Burke (S)",355051950
+"Qld","Carpentaria (S)",355052250
+"Qld","Cloncurry (S)",355052450
+"Qld","Doomadgee (S)",355052770
+"Qld","Flinders (S)",355053200
+"Qld","McKinlay (S)",355054800
+"Qld","Mornington (S)",355055250
+"Qld","Mount Isa (C)",355055300
+"Qld","Richmond (S)",355056300
+"SA","Gawler (T)",405052030
+"SA","Playford (C) - East Central",405055681
+"SA","Playford (C) - Elizabeth",405055683
+"SA","Playford (C) - Hills",405055684
+"SA","Playford (C) - West",405055686
+"SA","Playford (C) - West Central",405055688
+"SA","Port Adel. Enfield (C) - East",405055891
+"SA","Port Adel. Enfield (C) - Inner",405055894
+"SA","Salisbury (C) - Central",405057141
+"SA","Salisbury (C) - Inner North",405057143
+"SA","Salisbury (C) - North-East",405057144
+"SA","Salisbury (C) - South-East",405057146
+"SA","Salisbury (C) Bal",405057148
+"SA","Tea Tree Gully (C) - Central",405057701
+"SA","Tea Tree Gully (C) - Hills",405057704
+"SA","Tea Tree Gully (C) - North",405057705
+"SA","Tea Tree Gully (C) - South",405057708
+"SA","Charles Sturt (C) - Coastal",405101061
+"SA","Charles Sturt (C) - Inner East",405101064
+"SA","Charles Sturt (C) - Inner West",405101065
+"SA","Charles Sturt (C) - North-East",405101068
+"SA","Port Adel. Enfield (C) - Coast",405105895
+"SA","Port Adel. Enfield (C) - Park",405105896
+"SA","Port Adel. Enfield (C) - Port",405105897
+"SA","West Torrens (C) - East",405108411
+"SA","West Torrens (C) - West",405108414
+"SA","Unincorp. Western",405108899
+"SA","Adelaide (C)",405150070
+"SA","Adelaide Hills (DC) - Central",405150121
+"SA","Adelaide Hills (DC) - Ranges",405150124
+"SA","Burnside (C) - North-East",405150701
+"SA","Burnside (C) - South-West",405150704
+"SA","Campbelltown (C) - East",405150911
+"SA","Campbelltown (C) - West",405150914
+"SA","Norw. P'ham St Ptrs (C) - East",405155291
+"SA","Norw. P'ham St Ptrs (C) - West",405155294
+"SA","Prospect (C)",405156510
+"SA","Unley (C) - East",405157981
+"SA","Unley (C) - West",405157984
+"SA","Walkerville (M)",405158260
+"SA","Holdfast Bay (C) - North",405202601
+"SA","Holdfast Bay (C) - South",405202604
+"SA","Marion (C) - Central",405204061
+"SA","Marion (C) - North",405204064
+"SA","Marion (C) - South",405204065
+"SA","Mitcham (C) - Hills",405204341
+"SA","Mitcham (C) - North-East",405204344
+"SA","Mitcham (C) - West",405204345
+"SA","Onkaparinga (C) - Hackham",405205341
+"SA","Onkaparinga (C) - Hills",405205342
+"SA","Onkaparinga (C) - Morphett",405205343
+"SA","Onkaparinga (C) - North Coast",405205344
+"SA","Onkaparinga (C) - Reservoir",405205345
+"SA","Onkaparinga (C) - South Coast",405205346
+"SA","Onkaparinga (C) - Woodcroft",405205347
+"SA","Barossa (DC) - Angaston",410050311
+"SA","Barossa (DC) - Barossa",410050314
+"SA","Barossa (DC) - Tanunda",410050315
+"SA","Light (RegC)",410053650
+"SA","Mallala (DC)",410053920
+"SA","Kangaroo Island (DC)",410102750
+"SA","Adelaide Hills (DC) - North",410150125
+"SA","Adelaide Hills (DC) Bal",410150128
+"SA","Mount Barker (DC) - Central",410154551
+"SA","Mount Barker (DC) Bal",410154554
+"SA","Alexandrina (DC) - Coastal",410200221
+"SA","Alexandrina (DC) - Strathalbyn",410200224
+"SA","Victor Harbor (C)",410208050
+"SA","Yankalilla (DC)",410208750
+"SA","Barunga West (DC)",415050430
+"SA","Copper Coast (DC)",415051560
+"SA","Yorke Peninsula (DC) - North",415058831
+"SA","Yorke Peninsula (DC) - South",415058834
+"SA","Unincorp. Yorke",415058969
+"SA","Clare and Gilbert Valleys (DC)",415101140
+"SA","Goyder (DC)",415102110
+"SA","Wakefield (DC)",415108130
+"SA","Berri & Barmera (DC) - Barmera",420050521
+"SA","Berri & Barmera (DC) - Berri",420050524
+"SA","Loxton Waikerie (DC) - East",420053791
+"SA","Loxton Waikerie (DC) - West",420053794
+"SA","Mid Murray (DC)",420054210
+"SA","Renmark Paringa (DC) - Paringa",420056671
+"SA","Renmark Paringa (DC) - Renmark",420056674
+"SA","Unincorp. Riverland",420059039
+"SA","Karoonda East Murray (DC)",420103080
+"SA","Murray Bridge (RC)",420105040
+"SA","Southern Mallee (DC)",420107290
+"SA","The Coorong (DC)",420107800
+"SA","Unincorp. Murray Mallee",420109109
+"SA","Kingston (DC)",425053360
+"SA","Naracoorte and Lucindale (DC)",425055090
+"SA","Robe (DC)",425056860
+"SA","Tatiara (DC)",425057630
+"SA","Grant (DC)",425102250
+"SA","Mount Gambier (C)",425104620
+"SA","Wattle Range (DC) - East",425108341
+"SA","Wattle Range (DC) - West",425108344
+"SA","Cleve (DC)",430051190
+"SA","Elliston (DC)",430051750
+"SA","Franklin Harbour (DC)",430051960
+"SA","Kimba (DC)",430053220
+"SA","Le Hunte (DC)",430053570
+"SA","Lower Eyre Peninsula (DC)",430053710
+"SA","Port Lincoln (C)",430056300
+"SA","Tumby Bay (DC)",430057910
+"SA","Unincorp. Lincoln",430059179
+"SA","Ceduna (DC)",430101010
+"SA","Streaky Bay (DC)",430107490
+"SA","Unincorp. West Coast",430109249
+"SA","Whyalla (C)",435058540
+"SA","Unincorp. Whyalla",435059389
+"SA","Northern Areas (DC)",435155120
+"SA","Orroroo/Carrieton (DC)",435155400
+"SA","Peterborough (DC)",435155540
+"SA","Port Pirie C Dists (M) - City",435156451
+"SA","Port Pirie C Dists (M) Bal",435156454
+"SA","Unincorp. Pirie",435159459
+"SA","Flinders Ranges (DC)",435201830
+"SA","Mount Remarkable (DC)",435204830
+"SA","Port Augusta (C)",435206090
+"SA","Unincorp. Flinders Ranges",435209529
+"SA","Anangu Pitjantjatjara (AC)",435250250
+"SA","Coober Pedy (DC)",435251330
+"SA","Maralinga Tjarutja (AC)",435254000
+"SA","Roxby Downs (M)",435256970
+"SA","Unincorp. Far North",435259589
+"Tas","Brighton (M)",605050410
+"Tas","Clarence (C)",605051410
+"Tas","Derwent Valley (M) - Pt A",605051511
+"Tas","Glenorchy (C)",605052610
+"Tas","Hobart (C) - Inner",605052811
+"Tas","Hobart (C) - Remainder",605052812
+"Tas","Kingborough (M) - Pt A",605053611
+"Tas","Sorell (M) - Pt A",605054811
+"Tas","Central Highlands (M)",610051010
+"Tas","Derwent Valley (M) - Pt B",610051512
+"Tas","Glamorgan/Spring Bay (M)",610052410
+"Tas","Huon Valley (M)",610053010
+"Tas","Kingborough (M) - Pt B",610053612
+"Tas","Sorell (M) - Pt B",610054812
+"Tas","Southern Midlands (M)",610055010
+"Tas","Tasman (M)",610055210
+"Tas","George Town (M) - Pt A",615052211
+"Tas","Launceston (C) - Inner",615054011
+"Tas","Launceston (C) - Pt B",615054012
+"Tas","Meander Valley (M) - Pt A",615054211
+"Tas","Northern Midlands (M) - Pt A",615054611
+"Tas","West Tamar (M) - Pt A",615055811
+"Tas","George Town (M) - Pt B",615102212
+"Tas","Launceston (C) - Pt C",615104013
+"Tas","Meander Valley (M) - Pt B",615104212
+"Tas","Northern Midlands (M) - Pt B",615104612
+"Tas","West Tamar (M) - Pt B",615105812
+"Tas","Break O'Day (M)",615150210
+"Tas","Dorset (M)",615151810
+"Tas","Flinders (M)",615152010
+"Tas","Burnie (C) - Pt A",620050611
+"Tas","Central Coast (M) - Pt A",620050811
+"Tas","Devonport (C)",620051610
+"Tas","Latrobe (M) - Pt A",620053811
+"Tas","Waratah/Wynyard (M) - Pt A",620055411
+"Tas","Burnie (C) - Pt B",620100612
+"Tas","Central Coast (M) - Pt B",620100812
+"Tas","Circular Head (M)",620101210
+"Tas","Kentish (M)",620103210
+"Tas","King Island (M)",620103410
+"Tas","Latrobe (M) - Pt B",620103812
+"Tas","Waratah/Wynyard (M) - Pt B",620105412
+"Tas","West Coast (M)",620155610
+"Vic","Melbourne (C) - Inner",205054601
+"Vic","Melbourne (C) - S'bank-D'lands",205054605
+"Vic","Melbourne (C) - Remainder",205054608
+"Vic","Port Phillip (C) - St Kilda",205055901
+"Vic","Port Phillip (C) - West",205055902
+"Vic","Stonnington (C) - Prahran",205056351
+"Vic","Yarra (C) - North",205057351
+"Vic","Yarra (C) - Richmond",205057352
+"Vic","Brimbank (C) - Keilor",205101181
+"Vic","Brimbank (C) - Sunshine",205101182
+"Vic","Hobsons Bay (C) - Altona",205103111
+"Vic","Hobsons Bay (C) - Williamstown",205103112
+"Vic","Maribyrnong (C)",205104330
+"Vic","Moonee Valley (C) - Essendon",205105063
+"Vic","Moonee Valley (C) - West",205105065
+"Vic","Melton (S) - East",205204651
+"Vic","Melton (S) Bal",205204654
+"Vic","Wyndham (C) - North",205207261
+"Vic","Wyndham (C) - South",205207264
+"Vic","Wyndham (C) - West",205207267
+"Vic","Moreland (C) - Brunswick",205255251
+"Vic","Moreland (C) - Coburg",205255252
+"Vic","Moreland (C) - North",205255253
+"Vic","Banyule (C) - Heidelberg",205300661
+"Vic","Banyule (C) - North",205300662
+"Vic","Darebin (C) - Northcote",205301891
+"Vic","Darebin (C) - Preston",205301892
+"Vic","Hume (C) - Broadmeadows",205353271
+"Vic","Hume (C) - Craigieburn",205353274
+"Vic","Hume (C) - Sunbury",205353275
+"Vic","Nillumbik (S) - South",205405713
+"Vic","Nillumbik (S) - South-West",205405715
+"Vic","Nillumbik (S) Bal",205405718
+"Vic","Whittlesea (C) - North",205407071
+"Vic","Whittlesea (C) - South-East",205407075
+"Vic","Whittlesea (C) - South-West",205407076
+"Vic","Boroondara (C) - Camberwell N.",205451111
+"Vic","Boroondara (C) - Camberwell S.",205451112
+"Vic","Boroondara (C) - Hawthorn",205451113
+"Vic","Boroondara (C) - Kew",205451114
+"Vic","Manningham (C) - East",205504211
+"Vic","Manningham (C) - West",205504214
+"Vic","Monash (C) - South-West",205504971
+"Vic","Monash (C) - Waverley East",205504974
+"Vic","Monash (C) - Waverley West",205504975
+"Vic","Whitehorse (C) - Box Hill",205506981
+"Vic","Whitehorse (C) - Nunawading E.",205506984
+"Vic","Whitehorse (C) - Nunawading W.",205506985
+"Vic","Knox (C) - North-East",205553672
+"Vic","Knox (C) - North-West",205553673
+"Vic","Knox (C) - South",205553674
+"Vic","Maroondah (C) - Croydon",205554411
+"Vic","Maroondah (C) - Ringwood",205554412
+"Vic","Yarra Ranges (S) - Central",205607451
+"Vic","Yarra Ranges (S) - Dandenongs",205607452
+"Vic","Yarra Ranges (S) - Lilydale",205607453
+"Vic","Yarra Ranges (S) - North",205607454
+"Vic","Yarra Ranges (S) - Seville",205607456
+"Vic","Bayside (C) - Brighton",205650911
+"Vic","Bayside (C) - South",205650912
+"Vic","Glen Eira (C) - Caulfield",205652311
+"Vic","Glen Eira (C) - South",205652314
+"Vic","Kingston (C) - North",205653431
+"Vic","Kingston (C) - South",205653434
+"Vic","Stonnington (C) - Malvern",205656352
+"Vic","Gr. Dandenong (C) - Dandenong",205752671
+"Vic","Gr. Dandenong (C) Bal",205752674
+"Vic","Cardinia (S) - North",205801452
+"Vic","Cardinia (S) - Pakenham",205801453
+"Vic","Cardinia (S) - South",205801454
+"Vic","Casey (C) - Berwick",205801612
+"Vic","Casey (C) - Cranbourne",205801613
+"Vic","Casey (C) - Hallam",205801616
+"Vic","Casey (C) - South",205801618
+"Vic","Frankston (C) - East",205852171
+"Vic","Frankston (C) - West",205852174
+"Vic","Mornington P'sula (S) - East",205905341
+"Vic","Mornington P'sula (S) - South",205905344
+"Vic","Mornington P'sula (S) - West",205905345
+"Vic","Bellarine - Inner",210052751
+"Vic","Corio - Inner",210052752
+"Vic","Geelong",210052753
+"Vic","Geelong West",210052754
+"Vic","Newtown",210052755
+"Vic","South Barwon - Inner",210052756
+"Vic","Greater Geelong (C) - Pt B",210102757
+"Vic","Queenscliffe (B)",210106080
+"Vic","Surf Coast (S) - East",210106493
+"Vic","Surf Coast (S) - West",210106495
+"Vic","Colac-Otway (S) - Colac",210151751
+"Vic","Colac-Otway (S) - North",210151754
+"Vic","Colac-Otway (S) - South",210151755
+"Vic","Golden Plains (S) - North-West",210152491
+"Vic","Golden Plains (S) - South-East",210152492
+"Vic","Greater Geelong (C) - Pt C",210152758
+"Vic","Warrnambool (C)",215016730
+"Vic","Corangamite (S) - North",215051831
+"Vic","Corangamite (S) - South",215051832
+"Vic","Moyne (S) - North-East",215055491
+"Vic","Moyne (S) - North-West",215055493
+"Vic","Moyne (S) - South",215055496
+"Vic","Lady Julia Percy Island",215058469
+"Vic","Glenelg (S) - Heywood",215102411
+"Vic","Glenelg (S) - North",215102412
+"Vic","Glenelg (S) - Portland",215102413
+"Vic","S. Grampians (S) - Hamilton",215106261
+"Vic","S. Grampians (S) - Wannon",215106264
+"Vic","S. Grampians (S) Bal",215106265
+"Vic","Ballarat (C) - Central",220050571
+"Vic","Ballarat (C) - Inner North",220050572
+"Vic","Ballarat (C) - North",220050573
+"Vic","Ballarat (C) - South",220050574
+"Vic","Hepburn (S) - East",220102911
+"Vic","Hepburn (S) - West",220102912
+"Vic","Moorabool (S) - Bacchus Marsh",220105151
+"Vic","Moorabool (S) - Ballan",220105154
+"Vic","Moorabool (S) - West",220105155
+"Vic","Ararat (RC)",220150260
+"Vic","Pyrenees (S) - North",220155991
+"Vic","Pyrenees (S) - South",220155994
+"Vic","Horsham (RC) - Central",225053191
+"Vic","Horsham (RC) Bal",225053194
+"Vic","N. Grampians (S) - St Arnaud",225055811
+"Vic","N. Grampians (S) - Stawell",225055814
+"Vic","West Wimmera (S)",225056890
+"Vic","Hindmarsh (S)",225102980
+"Vic","Yarriambiack (S) - North",225107631
+"Vic","Yarriambiack (S) - South",225107632
+"Vic","Mildura (RC) - Pt A",230054781
+"Vic","Buloke (S) - North",230101271
+"Vic","Buloke (S) - South",230101272
+"Vic","Mildura (RC) - Pt B",230104782
+"Vic","Gannawarra (S)",230152250
+"Vic","Swan Hill (RC) - Central",230156611
+"Vic","Swan Hill (RC) - Robinvale",230156614
+"Vic","Swan Hill (RC) Bal",230156616
+"Vic","Gr. Bendigo (C) - Central",235052621
+"Vic","Gr. Bendigo (C) - Eaglehawk",235052622
+"Vic","Gr. Bendigo (C) - Inner East",235052623
+"Vic","Gr. Bendigo (C) - Inner North",235052624
+"Vic","Gr. Bendigo (C) - Inner West",235052625
+"Vic","Gr. Bendigo (C) - S'saye",235052626
+"Vic","C. Goldfields (S) - M'borough",235101671
+"Vic","C. Goldfields (S) Bal",235101674
+"Vic","Gr. Bendigo (C) - Pt B",235102628
+"Vic","Loddon (S) - North",235103943
+"Vic","Loddon (S) - South",235103945
+"Vic","Mount Alexander (S) - C'maine",235105431
+"Vic","Mount Alexander (S) Bal",235105434
+"Vic","Macedon Ranges (S) - Kyneton",235204131
+"Vic","Macedon Ranges (S) - Romsey",235204134
+"Vic","Macedon Ranges (S) Bal",235204135
+"Vic","Gr. Shepparton (C) - Pt A",240052831
+"Vic","Campaspe (S) - Echuca",240101371
+"Vic","Campaspe (S) - Kyabram",240101374
+"Vic","Campaspe (S) - Rochester",240101375
+"Vic","Campaspe (S) - South",240101376
+"Vic","Gr. Shepparton (C) - Pt B East",240102834
+"Vic","Gr. Shepparton (C) - Pt B West",240102835
+"Vic","Moira (S) - East",240104901
+"Vic","Moira (S) - West",240104904
+"Vic","Benalla (RC) - Benalla",240151011
+"Vic","Benalla (RC) Bal",240151014
+"Vic","Mansfield (S)",240154250
+"Vic","Strathbogie (S)",240156430
+"Vic","Mount Buller Alpine Resort",240158249
+"Vic","Mount Stirling Alpine Resort",240158349
+"Vic","Mitchell (S) - North",240204851
+"Vic","Mitchell (S) - South",240204854
+"Vic","Murrindindi (S) - East",240205621
+"Vic","Murrindindi (S) - West",240205622
+"Vic","Lake Mountain Alpine Resort",240208149
+"Vic","Indigo (S) - Pt A",245053351
+"Vic","Towong (S) - Pt A",245056671
+"Vic","Wodonga (RC)",245057170
+"Vic","Indigo (S) - Pt B",245103352
+"Vic","Wangaratta (RC) - Central",245106701
+"Vic","Wangaratta (RC) - North",245106704
+"Vic","Wangaratta (RC) - South",245106705
+"Vic","Alpine (S) - East",245150111
+"Vic","Alpine (S) - West",245150112
+"Vic","Towong (S) - Pt B",245156672
+"Vic","Falls Creek Alpine Resort",245158109
+"Vic","Mount Hotham Alpine Resort",245158309
+"Vic","E. Gippsland (S) - Bairnsdale",250052111
+"Vic","E. Gippsland (S) - Orbost",250052113
+"Vic","E. Gippsland (S) - South-West",250052115
+"Vic","E. Gippsland (S) Bal",250052117
+"Vic","Wellington (S) - Alberton",250156811
+"Vic","Wellington (S) - Avon",250156812
+"Vic","Wellington (S) - Maffra",250156813
+"Vic","Wellington (S) - Rosedale",250156814
+"Vic","Wellington (S) - Sale",250156815
+"Vic","Baw Baw (S) - Pt A",255050831
+"Vic","Latrobe (C) - Moe",255053811
+"Vic","Latrobe (C) - Morwell",255053814
+"Vic","Latrobe (C) - Traralgon",255053815
+"Vic","Latrobe (C) Bal",255053818
+"Vic","Baw Baw (S) - Pt B East",255100834
+"Vic","Baw Baw (S) - Pt B West",255100835
+"Vic","Yarra Ranges (S) - Pt B",255107458
+"Vic","Mount Baw Baw Alpine Resort",255108209
+"Vic","Bass Coast (S) - Phillip Is.",255200741
+"Vic","Bass Coast (S) Bal",255200744
+"Vic","South Gippsland (S) - Central",255206171
+"Vic","South Gippsland (S) - East",255206174
+"Vic","South Gippsland (S) - West",255206175
+"Vic","French Island",255208529
+"Vic","Bass Strait Islands",255208649
+"WA","Cambridge (T)",505051310
+"WA","Claremont (T)",505051750
+"WA","Cottesloe (T)",505052170
+"WA","Mosman Park (T)",505055740
+"WA","Nedlands (C)",505056580
+"WA","Peppermint Grove (S)",505056930
+"WA","Perth (C) - Inner",505057081
+"WA","Perth (C) - Remainder",505057082
+"WA","Subiaco (C)",505057980
+"WA","Vincent (T)",505058570
+"WA","Bassendean (T)",505100350
+"WA","Bayswater (C)",505100420
+"WA","Kalamunda (S)",505104200
+"WA","Mundaring (S)",505106090
+"WA","Swan (C)",505108050
+"WA","Joondalup (C) - North",505154171
+"WA","Joondalup (C) - South",505154174
+"WA","Stirling (C) - Central",505157914
+"WA","Stirling (C) - Coastal",505157915
+"WA","Stirling (C) - South-Eastern",505157916
+"WA","Wanneroo (C) - North-East",505158761
+"WA","Wanneroo (C) - North-West",505158764
+"WA","Wanneroo (C) - South",505158767
+"WA","Cockburn (C)",505201820
+"WA","East Fremantle (T)",505203150
+"WA","Fremantle (C) - Inner",505203431
+"WA","Fremantle (C) - Remainder",505203432
+"WA","Kwinana (T)",505204830
+"WA","Melville (C)",505205320
+"WA","Rockingham (C)",505207490
+"WA","Armadale (C)",505250210
+"WA","Belmont (C)",505250490
+"WA","Canning (C)",505251330
+"WA","Gosnells (C)",505253780
+"WA","Serpentine-Jarrahdale (S)",505257700
+"WA","South Perth (C)",505257840
+"WA","Victoria Park (T)",505258510
+"WA","Mandurah (C)",510015110
+"WA","Murray (S)",510016230
+"WA","Bunbury (C)",510031190
+"WA","Capel (S) - Pt A",510031401
+"WA","Dardanup (S) - Pt A",510032661
+"WA","Harvey (S) - Pt A",510033991
+"WA","Boddington (S)",510100630
+"WA","Capel (S) - Pt B",510101404
+"WA","Collie (S)",510101890
+"WA","Dardanup (S) - Pt B",510102664
+"WA","Donnybrook-Balingup (S)",510102870
+"WA","Harvey (S) - Pt B",510103994
+"WA","Waroona (S)",510108820
+"WA","Augusta-Margaret River (S)",510150280
+"WA","Busselton (S)",510151260
+"WA","Boyup Brook (S)",510200770
+"WA","Bridgetown-Greenbushes (S)",510200840
+"WA","Manjimup (S)",510205180
+"WA","Nannup (S)",510206300
+"WA","Broomehill-Tambellup (S)",515051080
+"WA","Gnowangerup (S)",515053640
+"WA","Jerramungup (S)",515054130
+"WA","Katanning (S)",515054340
+"WA","Kent (S)",515054480
+"WA","Kojonup (S)",515054550
+"WA","Woodanilling (S)",515059380
+"WA","Albany (C) - Central",515100081
+"WA","Albany (C) Bal",515100084
+"WA","Cranbrook (S)",515102240
+"WA","Denmark (S)",515102730
+"WA","Plantagenet (S)",515107210
+"WA","Brookton (S)",520050910
+"WA","Cuballing (S)",520052310
+"WA","Dumbleyung (S)",520053010
+"WA","Narrogin (T)",520056440
+"WA","Narrogin (S)",520056510
+"WA","Pingelly (S)",520057140
+"WA","Wagin (S)",520058610
+"WA","Wandering (S)",520058680
+"WA","West Arthur (S)",520058890
+"WA","Wickepin (S)",520059100
+"WA","Williams (S)",520059170
+"WA","Corrigin (S)",520102100
+"WA","Kondinin (S)",520104620
+"WA","Kulin (S)",520104760
+"WA","Lake Grace (S)",520104900
+"WA","Chittering (S)",525051680
+"WA","Dandaragan (S)",525052590
+"WA","Gingin (S)",525053570
+"WA","Moora (S)",525055600
+"WA","Victoria Plains (S)",525058540
+"WA","Beverley (S)",525100560
+"WA","Cunderdin (S)",525102450
+"WA","Dalwallinu (S)",525102520
+"WA","Dowerin (S)",525102940
+"WA","Goomalling (S)",525103710
+"WA","Koorda (S)",525104690
+"WA","Northam",525106732
+"WA","Northam Town",525106735
+"WA","Quairading (S)",525107350
+"WA","Tammin (S)",525108190
+"WA","Toodyay (S)",525108330
+"WA","Wongan-Ballidu (S)",525109310
+"WA","Wyalkatchem (S)",525109450
+"WA","York (S)",525109730
+"WA","Bruce Rock (S)",525151120
+"WA","Kellerberrin (S)",525154410
+"WA","Merredin (S)",525155460
+"WA","Mount Marshall (S)",525155880
+"WA","Mukinbudin (S)",525155950
+"WA","Narembeen (S)",525156370
+"WA","Nungarin (S)",525156860
+"WA","Trayning (S)",525158400
+"WA","Westonia (S)",525159030
+"WA","Yilgarn (S)",525159660
+"WA","Kalgoorlie/Boulder (C) - Pt A",530014281
+"WA","Coolgardie (S)",530051960
+"WA","Kalgoorlie/Boulder (C) - Pt B",530054284
+"WA","Laverton (S)",530054970
+"WA","Leonora (S)",530055040
+"WA","Menzies (S)",530055390
+"WA","Ngaanyatjarraku (S)",530056620
+"WA","Dundas (S)",530103080
+"WA","Esperance (S)",530103290
+"WA","Ravensthorpe (S)",530107420
+"WA","Geraldton",535033522
+"WA","Greenough - Pt A",535033524
+"WA","Carnarvon (S)",535051540
+"WA","Exmouth (S)",535053360
+"WA","Shark Bay (S)",535057770
+"WA","Upper Gascoyne (S)",535058470
+"WA","Cue (S)",535102380
+"WA","Meekatharra (S)",535105250
+"WA","Mount Magnet (S)",535105810
+"WA","Murchison (S)",535106160
+"WA","Sandstone (S)",535107630
+"WA","Wiluna (S)",535109250
+"WA","Yalgoo (S)",535109590
+"WA","Carnamah (S)",535151470
+"WA","Chapman Valley (S)",535151610
+"WA","Coorow (S)",535152030
+"WA","Greenough - Pt B",535153526
+"WA","Irwin (S)",535154060
+"WA","Mingenew (S)",535155530
+"WA","Morawa (S)",535155670
+"WA","Mullewa (S)",535156020
+"WA","Northampton (S)",535156790
+"WA","Perenjori (S)",535157000
+"WA","Three Springs (S)",535158260
+"WA","East Pilbara (S)",540053220
+"WA","Port Hedland (T)",540057280
+"WA","Ashburton (S)",540100250
+"WA","Roebourne (S)",540107560
+"WA","Halls Creek (S)",545053920
+"WA","Wyndham-East Kimberley (S)",545059520
+"WA","Broome (S)",545100980
+"WA","Derby-West Kimberley (S)",545102800
